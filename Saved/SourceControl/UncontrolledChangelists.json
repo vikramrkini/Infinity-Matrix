@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/Shared/Epic Games/UE_5.1/Engine/Content/BasicShapes/Sphere.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_HealthBar.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WD_ScoreText.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/Shared/Epic Games/UE_5.1/Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Music/BackgroundMusic.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Music/MusicInstance.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/GM_Tutorial.uasset",
+				"/Users/vikramkini/CS415/MP1/InfiniteMatrix/InfiniteMatrixStarter/Content/InfiniteMatrix/Music/clubbed_to_death_-_Matrix_soundtrack.uasset",
+				"/Users/vikramkini/Downloads/CS498GD-MP1-InfiniteMatrix-master/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/vikramkini/Downloads/CS498GD-MP1-InfiniteMatrix-master/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/vikramkini/Downloads/CS498GD-MP1-InfiniteMatrix-master/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/vikramkini/Downloads/CS498GD-MP1-InfiniteMatrix-master/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/vikramkini/Downloads/CS498GD-MP1-InfiniteMatrix-master/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole.uasset"
+			]
+		}
+	]
+}
